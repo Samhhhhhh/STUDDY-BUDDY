@@ -15,7 +15,7 @@
             <li><strong>Discussion Forum:</strong> A platform built using PHP, HTML, and Bootstrap where students can post questions, collaborate on academic research, and connect with peers sharing similar interests.</li>
         </ul>
 <h2>Contact</h2>
-        <p>If you have any questions or suggestions regarding Study Buddy, feel free to leave me a message at my <a href="www.linkedin.com/in/prem-kumar-123048243">Linkedin</a>.</p>
+        <p>If you have any questions or suggestions regarding Study Buddy, feel free to leave me a message at my <a href="https://www.linkedin.com/in/samarth-pathak-11a1b4267/">Linkedin</a>.</p>
     </div>
 </body>
 </html>
